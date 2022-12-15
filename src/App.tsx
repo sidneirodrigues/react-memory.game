@@ -1,7 +1,7 @@
 import * as C from './App.styles';
 
 //Img
-import logoImage from './assets/devmemory_logo.png';
+import logoImage from './assets/logo/devmemory_logo.png';
 import restartIcon from './assets/svgs/restart.svg';
 
 //Components
