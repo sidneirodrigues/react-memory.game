@@ -1,4 +1,4 @@
-import androidSvg from '../assets/svgs/andoid.svg';
+import androidSvg from '../assets/svgs/android.svg';
 import caminhaoSvg from '../assets/svgs/caminhao.svg';
 import disneySvg from '../assets/svgs/disney.svg';
 import estrelaSvg from '../assets/svgs/estrela.svg';

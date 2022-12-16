@@ -16,6 +16,7 @@ import { items } from './data/items'
 //Components
 import { InfoItem } from './components/InfoItem';
 import { Button } from './components/Button';
+import { GridItem } from './components/GridItem';
 
  
 const App = () => {
@@ -59,6 +60,10 @@ const App = () => {
         setPlaying(true);
     }
 
+    const handleItemClick = (index: number) => {
+
+    }
+
 
     return (
     <C.Container>
@@ -76,7 +81,13 @@ const App = () => {
         </C.Info>
         <C.GridArea>
             <C.Grid>
-
+                {gridItems.map((item, index) => (
+                    <GridItem 
+                        key={index}
+                        item={item}
+                        onClick={() => handleItemClick(index)}
+                    />
+                ))}
             </C.Grid>
         </C.GridArea>
     </C.Container>
