@@ -57,7 +57,7 @@ Error generating stack: `+o.message+`
     @media (max-width: 750px) {
         grid-template-columns: repeat(3, 1fr);
     }
-`,Tm="/react-memory.game/assets/devmemory_logo-10210a55.png",Rm="/react-memory.game/assets/restart-a877db9c.svg",Lm="/react-memory.game/assets/android-0df1b72a.svg",Om="/react-memory.game/assets/caminhao-90c3ba64.svg",Am="/react-memory.game/assets/disney-65b7cf0d.svg",Im="/react-memory.game/assets/estrela-99e1053f.svg",Mm="/react-memory.game/assets/gasolina-464a1be8.svg",jm="/react-memory.game/assets/moto-c5d82ea4.svg",wl=[{name:"android",icon:Lm},{name:"caminhao",icon:Om},{name:"disney",icon:Am},{name:"estrela",icon:Im},{name:"gasolina",icon:Mm},{name:"moto",icon:jm}],Dm=e=>{let t=Math.floor(e/60);e-=t*60;let n=`${e<10?"0"+e:e}`;return`${`${t<10?"0"+t:t}`}:${n}`},Fm=Me.div`
+`,Tm="/react-memory.game/assets/devmemory_logo-c40ee762.png",Rm="/react-memory.game/assets/restart-a877db9c.svg",Lm="/react-memory.game/assets/android-0df1b72a.svg",Om="/react-memory.game/assets/caminhao-90c3ba64.svg",Am="/react-memory.game/assets/disney-65b7cf0d.svg",Im="/react-memory.game/assets/estrela-99e1053f.svg",Mm="/react-memory.game/assets/gasolina-464a1be8.svg",jm="/react-memory.game/assets/moto-c5d82ea4.svg",wl=[{name:"android",icon:Lm},{name:"caminhao",icon:Om},{name:"disney",icon:Am},{name:"estrela",icon:Im},{name:"gasolina",icon:Mm},{name:"moto",icon:jm}],Dm=e=>{let t=Math.floor(e/60);e-=t*60;let n=`${e<10?"0"+e:e}`;return`${`${t<10?"0"+t:t}`}:${n}`},Fm=Me.div`
     margin: 20px 0;
 `,Um=Me.div`
     font-size: 15px;
